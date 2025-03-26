@@ -13,7 +13,8 @@
 
 ## About Me
 
-I'm a Ph.D student in Computer Science and Data Science at Zhejiang University, advised by Prof. Xiaoye Miao and Prof. Xiangyu Zhao. Previously, I received my B.S. in Computer Science from Beijing Jiaotong University in 2021.
+I'm now a third-year "ZJU-CityU" joint PhD student in Computer Science (ZJU) and Data Science (CityU) under the supervision of Prof. Xiaoye Miao and Prof. Xiangyu Zhao. Previously, I received my B.S. in Computer Science from Beijing Jiaotong University in 2021.
+        
 
 ## Research Interest
 
