@@ -1,5 +1,5 @@
 # Wei Ni
-**Ph.D Student in Computer Science and Data Science**
+**Ph.D Candidate in Computer Science and Data Science**
 
 ---
 
