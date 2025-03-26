@@ -8,7 +8,7 @@
 - [**Applied Machine Learning Lab, CityU**](https://aml-cityu.github.io/)
 
 ### Contact
-- Email: [wei.ni@zju.edu.cn](mailto:wei.ni@zju.edu.cn)
+- Email: 📧 [wei.ni@zju.edu.cn](mailto:wei.ni@zju.edu.cn)
 - GitHub: [@WelkinNi](https://github.com/WelkinNi)
 
 ## About Me
