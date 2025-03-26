@@ -34,5 +34,5 @@ I'm a Ph.D student in Computer Science and Data Science at Zhejiang University, 
 
 ## Awards
 
-- **2022**: Academic Scholarship of ZJU
+- **2022**: Academic Scholarship of Zhejiang University
 - **2021**: Outstanding Graduate of Beijing
