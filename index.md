@@ -18,7 +18,7 @@ I'm now a third-year "ZJU-CityU" joint PhD student in Computer Science (ZJU) and
 
 ## Research Interest
 
-- **Data Management**: Developing fully automated data cleaning and integration techniques to improve the quality of data. **[Survey on Data Cleaning](https://dl.acm.org/doi/10.14778/3675034.3675051)**
+- **Data Management**: Developing fully automated data cleaning and integration techniques to improve the quality of data. **[Experimental Survey on Data Cleaning](https://dl.acm.org/doi/10.14778/3675034.3675051)**
 - **Data Mining**: Mining knowledge from data to support afterwards decision-making.
 
 ## Publications
