@@ -25,8 +25,8 @@ I'm now a third-year "ZJU-CityU" joint PhD student in Computer Science (ZJU) and
 
 1. **[VLDB'2024]** **Wei Ni**, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Shuwei Liang, and Jianwei Yin. 2024. Automatic Data Repair: Are We Ready to Deploy? Proc. VLDB Endow. 17, 10 (June 2024), 2617–2630.
 2. **[ACM-TURC'2024]** **Wei Ni**, Kaihang Zhang, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, and Jianwei Yin. 2024. IterClean: An Iterative Data Cleaning Framework with Large Language Models. ACM-TURC '24, 100–105.
-3. **[ICDE'2025]** **Wei Ni**, Kaihang Zhang, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Yaoshu Wang, and Jianwei Yin. 2025. ZeroED: Hybrid Zero-shot Error Detection through Large Language Model Reasoning. (Acceped)
-4. **[ICDE'2025]** Yangyang Wu, Chen Yang, Mengying Zhu, Xiaoye Miao, **Wei Ni**, Meng Xi, Xinkui Zhao, and Jianwei Yin. 2025. A Zero-Training Error Correction System with Large Language Models. (Acceped)
+3. **[ICDE'2025]** **Wei Ni**, Kaihang Zhang, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Yaoshu Wang, and Jianwei Yin. 2025. ZeroED: Hybrid Zero-shot Error Detection through Large Language Model Reasoning. (Accepted)
+4. **[ICDE'2025]** Yangyang Wu, Chen Yang, Mengying Zhu, Xiaoye Miao, **Wei Ni**, Meng Xi, Xinkui Zhao, and Jianwei Yin. 2025. A Zero-Training Error Correction System with Large Language Models. (Accepted)
 
 ## Academic Services
 
