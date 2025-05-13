@@ -34,6 +34,6 @@ I'm now a third-year "ZJU-CityU" joint PhD student in Computer Science (ZJU) and
 - **2024**: PC Member for **CIKM**, Reviewer for **TKDD**
 
 ## Awards
-
-- **2022**: Academic Scholarship of Zhejiang University
+- **2025**: ICDE'25 Travel Grant Award
+- **2024**: Academic Scholarship of Zhejiang University
 - **2021**: Outstanding Graduate of Beijing
