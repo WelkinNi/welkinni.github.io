@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm now a third-year "ZJU-CityU" joint PhD student in Computer Science (ZJU) and Data Science (CityU) under the supervision of Prof. Xiaoye Miao and Prof. Xiangyu Zhao. Previously, I received my B.S. in Computer Science from Beijing Jiaotong University in 2021.
+I'm now a final-year "ZJU-CityU" joint PhD student in Computer Science (ZJU) and Data Science (CityU) under the supervision of Prof. Xiaoye Miao and Prof. Xiangyu Zhao. Previously, I received my B.S. in Computer Science from Beijing Jiaotong University in 2021.
         
 
 ## Research Interest
@@ -25,9 +25,10 @@ I'm now a third-year "ZJU-CityU" joint PhD student in Computer Science (ZJU) and
 
 1. **[VLDB'2024]** **Wei Ni**, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Shuwei Liang, and Jianwei Yin. Automatic Data Repair: Are We Ready to Deploy? Proc. VLDB Endow. 17, 10 (June 2024), 2617–2630.
 2. **[ACM-TURC'2024]** **Wei Ni**, Kaihang Zhang, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, and Jianwei Yin. IterClean: An Iterative Data Cleaning Framework with Large Language Models. ACM-TURC '24, 100–105.
-3. **[ICDE'2025]** **Wei Ni**, Kaihang Zhang, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Yaoshu Wang, and Jianwei Yin. ZeroED: Hybrid Zero-shot Error Detection through Large Language Model Reasoning. (Accepted)
-4. **[ICDE'2025]** Yangyang Wu, Chen Yang, Mengying Zhu, Xiaoye Miao, **Wei Ni**, Meng Xi, Xinkui Zhao, and Jianwei Yin. A Zero-Training Error Correction System with Large Language Models. (Accepted)
+3. **[ICDE'2025]** **Wei Ni**, Kaihang Zhang, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Yaoshu Wang, and Jianwei Yin. ZeroED: Hybrid Zero-shot Error Detection through Large Language Model Reasoning. 2025 IEEE 41st International Conference on Data Engineering (ICDE), 3126-3139. DOI: 10.1109/ICDE65448.2025.00234.
+4. **[ICDE'2025]** Yangyang Wu, Chen Yang, Mengying Zhu, Xiaoye Miao, **Wei Ni**, Meng Xi, Xinkui Zhao, and Jianwei Yin. A Zero-Training Error Correction System with Large Language Models. 2025 IEEE 41st International Conference on Data Engineering (ICDE), 2949-2962. DOI: 10.1109/ICDE65448.2025.00221.
 5. **[SIGIR'2025 Workshop]** Yusheng Lu, Yongrui Duan, Zhaocheng Du, Weiwen Liu, Dayan Pan, **Wei Ni**, Xiangyang Li, Yichao Wang, Huifeng Guo, Yong Liu and Ruiming Tang. Literature Review on Multi-modality and LLMs Agent-based Information Retrieval.
+6. **[ICDE'2026]** **Wei Ni**, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, and Jianwei Yin. TORepair: Diffusion-based Task-Oriented Error Repair via Differentiable Bi-Level Optimization. (Accepted)
 
 ## Academic Services
 
@@ -35,6 +36,7 @@ I'm now a third-year "ZJU-CityU" joint PhD student in Computer Science (ZJU) and
 - **2024**: PC Member for **CIKM**, Reviewer for **TKDD**
 
 ## Awards
+- **2025**: Outstanding Graduate Student of Zhejiang University
 - **2025**: ICDE'25 Travel Grant Award
 - **2024**: Academic Scholarship of Zhejiang University
 - **2021**: Outstanding Graduate of Beijing
