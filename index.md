@@ -25,8 +25,8 @@ I'm now a final-year "ZJU-CityU" joint PhD student in Computer Science (ZJU) and
 
 1. **[VLDB'2024]** **Wei Ni**, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Shuwei Liang, and Jianwei Yin. Automatic Data Repair: Are We Ready to Deploy? Proc. VLDB Endow. 17, 10, 2617–2630.
 2. **[ACM-TURC'2024]** **Wei Ni**, Kaihang Zhang, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, and Jianwei Yin. IterClean: An Iterative Data Cleaning Framework with Large Language Models. ACM-TURC '24, 100–105.
-3. **[ICDE'2025]** **Wei Ni**, Kaihang Zhang, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Yaoshu Wang, and Jianwei Yin. ZeroED: Hybrid Zero-shot Error Detection through Large Language Model Reasoning. ICDE'2025, 3126-3139. DOI: 10.1109/ICDE65448.2025.00234.
-4. **[ICDE'2025]** Yangyang Wu, Chen Yang, Mengying Zhu, Xiaoye Miao, **Wei Ni**, Meng Xi, Xinkui Zhao, and Jianwei Yin. A Zero-Training Error Correction System with Large Language Models. ICDE'2025, 2949-2962. DOI: 10.1109/ICDE65448.2025.00221.
+3. **[ICDE'2025]** **Wei Ni**, Kaihang Zhang, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Yaoshu Wang, and Jianwei Yin. ZeroED: Hybrid Zero-shot Error Detection through Large Language Model Reasoning. ICDE'2025, 3126-3139.
+4. **[ICDE'2025]** Yangyang Wu, Chen Yang, Mengying Zhu, Xiaoye Miao, **Wei Ni**, Meng Xi, Xinkui Zhao, and Jianwei Yin. A Zero-Training Error Correction System with Large Language Models. ICDE'2025, 2949-2962.
 5. **[SIGIR'2025 Workshop]** Yusheng Lu, Yongrui Duan, Zhaocheng Du, Weiwen Liu, Dayan Pan, **Wei Ni**, Xiangyang Li, Yichao Wang, Huifeng Guo, Yong Liu and Ruiming Tang. Literature Review on Multi-modality and LLMs Agent-based Information Retrieval.
 6. **[ICDE'2026]** **Wei Ni**, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, and Jianwei Yin. TORepair: Diffusion-based Task-Oriented Error Repair via Differentiable Bi-Level Optimization. (Accepted)
 
